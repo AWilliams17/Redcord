@@ -1,3 +1,7 @@
+version '1.0-SNAPSHOT'
+group = 'com.github.redcord'
+sourceCompatibility = 1.8
+
 plugins {
     id 'java'
     id 'application'
@@ -7,11 +11,6 @@ plugins {
 application {
     mainClassName = 'com.github.redcord.MainKt'
 }
-
-version '1.0-SNAPSHOT'
-group = 'com.github.redcord'
-
-sourceCompatibility = 1.8
 
 repositories {
     mavenCentral()
