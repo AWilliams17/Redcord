@@ -9,7 +9,7 @@ plugins {
 }
 
 application {
-    mainClassName = 'com.github.redcord.MainKt'
+    mainClassName = 'com.github.awilliams17.redcord.MainKt'
 }
 
 repositories {
