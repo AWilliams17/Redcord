@@ -1,5 +1,4 @@
 package com.github.awilliams17.redcord
-import com.natpryce.konfig.*
 
 
 object Config {
