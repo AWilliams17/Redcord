@@ -1,9 +1,10 @@
 ## Main
-[ ] Automatic upvoting of new messages  
+[x] Automatic upvoting of new messages  
+[ ] Downvoting
 [ ] Store total reputation  
-[ ] ^--- Show total reputation in nickname  
 [ ] Unit Tests  
-[ ] Configuration file
+[ ] Configuration file  
+[ ] Reddit gold  
 
 ## Misc
 [ ] Nickname registration and login(make it as annoying as possible)
