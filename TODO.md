@@ -1,6 +1,6 @@
 ## Main
 [x] Automatic upvoting of new messages  
-[ ] Downvoting
+[ ] Downvoting  
 [ ] Store total reputation  
 [ ] Unit Tests  
 [ ] Configuration file  
