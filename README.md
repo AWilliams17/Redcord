@@ -11,3 +11,11 @@ dare I say - human achievement. All it is missing is that one feature to make it
 truly exemplary.
 
 *(I am so so sorry)*
+
+### Features/Plans
+At the moment literally all it does is just upvote new messages in the server.  
+Eventually I hope to it have it doing ridiculous things like tracking the total amount
+of 'reputation' user(s) have accumulated over time in the server being tracked, possibly  
+some sort of an annoying login feature, etc... Basically the penultimate goal here is to  
+make a bot that makes the end experience as annoying and intrusive as possible but in a  
+way that doesn't completely destroy the server.
