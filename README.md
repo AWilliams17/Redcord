@@ -1,5 +1,6 @@
 ## Redcord - It's a Discord Reddit-style reputation bot
-### Why would you do this.
+![](https://i.imgur.com/10yWYSy.png)
+### Why would you do this
 Learn Kotlin and Discord bots, and because this is the worst idea I've ever had for a bot.
 An idea so stupendously terrible, that it just had to be made.
 
