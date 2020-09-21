@@ -5,6 +5,7 @@
 [ ] Unit Tests  
 [ ] Configuration file  
 [ ] Reddit gold  
+[ ] Logging
 
 ## Misc
 [ ] Nickname registration and login(make it as annoying as possible)
